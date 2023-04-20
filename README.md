@@ -1,2 +1,2 @@
 # hello-world
-인프런 github 교
+인프런 github 교육
